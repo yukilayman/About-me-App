@@ -21,7 +21,7 @@ struct ContentView: View {
                 .aspectRatio(contentMode: .fit)
                 .cornerRadius(30)
             HStack(alignment: .center, spacing: 10.0) {
-                Text("Yuki Layman🌎🌺🌊🌴🪸")
+                Text("Yuki 🌎🌺🌊🌴")
                     .font(.title)
                     .fontWeight(.semibold)
                 Button("Click Here to learn more!")
